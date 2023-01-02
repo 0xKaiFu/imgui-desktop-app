@@ -1,0 +1,19 @@
+﻿F:\VisualStudio\IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Das Zwischenverzeichnis (C:\Users\begum\Desktop\Imgui dessktop ui  dx9\imgui\Release\) enthält freigegebene Dateien aus einem anderen Projekt (example_win32_directx9.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  main.cpp
+C:\Users\begum\Desktop\Imgui dessktop ui  dx9\imgui\main.cpp(8,10): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+C:\Users\begum\Desktop\Imgui dessktop ui  dx9\imgui\main.cpp(9,10): warning C4067: Unerwartete Token nach Präprozessordirektive - Zeilenvorschub erwartet.
+C:\Users\begum\Desktop\Imgui dessktop ui  dx9\imgui\main.cpp(76,10): warning C4189: "show_demo_window": Lokale Variable ist initialisiert aber nicht referenziert
+C:\Users\begum\Desktop\Imgui dessktop ui  dx9\imgui\main.cpp(77,10): warning C4189: "show_another_window": Lokale Variable ist initialisiert aber nicht referenziert
+  maingui.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 1244 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  example_win32_directx9.vcxproj -> C:\Users\begum\Desktop\Imgui dessktop ui  dx9\imgui\Release\dx9 desktop.exe
